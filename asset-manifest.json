@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d0dea33d.css",
-    "main.js": "/static/js/main.17634fa4.js",
+    "main.js": "/static/js/main.35d80316.js",
     "static/media/heroes-bg.png": "/static/media/heroes-bg.71ab9a13d73de3860763.png",
     "static/media/toyota-box.png": "/static/media/toyota-box.8968332b7901c6bb183c.png",
     "static/media/passat-box.png": "/static/media/passat-box.c78021e11cf230128bcc.png",
@@ -38,10 +38,10 @@
     "static/media/appstore.svg": "/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
     "index.html": "/index.html",
     "main.d0dea33d.css.map": "/static/css/main.d0dea33d.css.map",
-    "main.17634fa4.js.map": "/static/js/main.17634fa4.js.map"
+    "main.35d80316.js.map": "/static/js/main.35d80316.js.map"
   },
   "entrypoints": [
     "static/css/main.d0dea33d.css",
-    "static/js/main.17634fa4.js"
+    "static/js/main.35d80316.js"
   ]
 }
